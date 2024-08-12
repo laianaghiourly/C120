@@ -1,0 +1,23 @@
+body{
+    font-family: monospace;
+}
+#logo{
+    width: 200px;
+}
+#img1{
+    width: 200px;
+}
+.test_image{
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+h5{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
